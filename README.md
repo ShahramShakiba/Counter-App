@@ -19,7 +19,7 @@ By analyzing the data collected by a counter, you can gain insights into trends 
 
 
 ## Try it live :
-
+https://shahramshakiba.github.io/Counter-App/
 
  ## Stay in touch :
  • ` Author ` - <a href="https://t.me/ShahramDev">Shahram Shakiba</a> <br/>
