@@ -1,0 +1,91 @@
+/*==================== Font ===================*/
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Raleway:wght@400;600;700;900&display=swap');
+
+/*==================== BASE ===================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #c3c3c3;
+  font-family: 'Raleway', serif;
+}
+
+/*==================== APP ===================*/
+#app {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.app-center {
+  background-color: wheat;
+  border-radius: 10rem 0 5rem 0;
+
+  width: 600px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1rem;
+
+  box-shadow: 5px 7px 10px rgba(0, 0, 0, 0.2);
+}
+
+.app-title {
+  font-size: 2rem;
+  border-bottom: 1px solid #939393;
+  padding-bottom: 0.5rem;
+  color: rgb(93, 93, 93);
+}
+
+.app-content {
+  height: 10rem;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.count-title {
+  font-size: 2.5rem;
+  color: rgb(93, 93, 93);
+  margin-bottom: 2rem;
+}
+
+.btn {
+  font-size: 2.5rem;
+  font-weight: 600;
+  padding: 0.2rem 4rem;
+  outline: none;
+  border-radius: 2rem;
+  border: 1px solid #c4c4c4;
+  color: blueviolet;
+  cursor: pointer;
+  margin-inline: 0.5rem;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.app-decrement {
+  color: rgb(197, 84, 84);
+}
+
+.app-increment {
+  color: rgb(107, 164, 107);
+}
+
+.app-reset {
+  margin-top: 2rem;
+  font-size: 1.3rem;
+  padding: 0.5rem 3rem;
+  color: rgb(105, 105, 239);
+}
