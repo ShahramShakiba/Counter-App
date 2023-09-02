@@ -1,5 +1,5 @@
-# Description
-**_Counter-App_** :<br/>
+# <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp; Counter-App 
+**_Description_** :<br/>
   > This is a mini-project of counting application to practice `HTML`, `CSS` and `JavaScript`.  <br/>
 
 - A _Counter application_ is a useful tool for tracking and monitoring various types of data. It can help individuals and businesses to make data-driven decisions and manage their resources more effectively.
